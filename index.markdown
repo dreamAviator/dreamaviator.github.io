@@ -4,4 +4,4 @@
 
 layout: default
 ---
-[Projects](dreamaviator.github.io/projects)
+[Projects](/projects)
