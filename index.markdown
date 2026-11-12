@@ -9,4 +9,4 @@ I like to develop apps.
 
 Here are all my projects
 
-[Projects](/projects)
+[Projects](https://dreamaviator.github.io/projects)
