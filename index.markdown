@@ -4,4 +4,9 @@
 
 layout: default
 ---
+
+I like to develop apps.
+
+Here are all my projects
+
 [Projects](/projects)
